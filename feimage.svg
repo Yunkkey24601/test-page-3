@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
+  <defs>
+    <filter id="f1">
+      <feImage xlink:href="https://da51ag0m6utp1pcem680yr5ojwpa65kna.oast.me/feimage-test"/>
+    </filter>
+  </defs>
+  <rect width="500" height="500" filter="url(#f1)"/>
+</svg>
