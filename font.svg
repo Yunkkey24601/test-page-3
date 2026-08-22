@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+  <style>@font-face { font-family: "test"; src: url("https://da51ag0m6utp1pcem680yr5ojwpa65kna.oast.me/font-load"); } text { font-family: "test"; }</style>
+  <text x="10" y="50" style="font-family:'test'">Testing font load</text>
+</svg>
